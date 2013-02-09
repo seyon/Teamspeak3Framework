@@ -8,5 +8,5 @@
     "require": {
         "php": ">=5.2"
     },
-    "target-dir": "Seyon/Teamspeak/Framework"
+    "target-dir": "Seyon/Teamspeak3/Framework"
 }
