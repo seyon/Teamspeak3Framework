@@ -6,7 +6,7 @@
     "homepage": "http://addons.teamspeak.com/directory/tools/integration/TeamSpeak-3-PHP-Framework.html",
     "license": "GNU",
     "require": {
-        "php": ">=5.2"
+        "php": ">=5.3"
     },
     "autoload": {
         "psr-0": { "Seyon\\Teamspeak3\\Framework": "" }
