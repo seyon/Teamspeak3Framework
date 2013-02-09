@@ -8,5 +8,8 @@
     "require": {
         "php": ">=5.2"
     },
+    "autoload": {
+        "psr-0": { "Seyon\\Teamspeak3\\Framework": "" }
+    },
     "target-dir": "Seyon/Teamspeak3/Framework"
 }
